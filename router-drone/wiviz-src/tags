@@ -1,0 +1,1133 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AAL_PARA	atmuni31.h	65;"	d
+AARP	tokdefs.h	/^     AARP = 284,$/;"	e	enum:yytokentype
+AARP	tokdefs.h	180;"	d
+ADDR1	tokdefs.h	/^     ADDR1 = 304,$/;"	e	enum:yytokentype
+ADDR1	tokdefs.h	200;"	d
+ADDR2	tokdefs.h	/^     ADDR2 = 305,$/;"	e	enum:yytokentype
+ADDR2	tokdefs.h	201;"	d
+ADDR3	tokdefs.h	/^     ADDR3 = 306,$/;"	e	enum:yytokentype
+ADDR3	tokdefs.h	202;"	d
+ADDR4	tokdefs.h	/^     ADDR4 = 307,$/;"	e	enum:yytokentype
+ADDR4	tokdefs.h	203;"	d
+ADD_PARTY	atmuni31.h	56;"	d
+ADD_PARTY_ACK	atmuni31.h	57;"	d
+ADD_PARTY_REJ	atmuni31.h	58;"	d
+AH	tokdefs.h	/^     AH = 324,$/;"	e	enum:yytokentype
+AH	tokdefs.h	220;"	d
+AID	tokdefs.h	/^     AID = 318,$/;"	e	enum:yytokentype
+AID	tokdefs.h	214;"	d
+AND	tokdefs.h	/^     AND = 366,$/;"	e	enum:yytokentype
+AND	tokdefs.h	262;"	d
+ARCTYPE_ARP	arcnet.h	44;"	d
+ARCTYPE_ARP_OLD	arcnet.h	40;"	d
+ARCTYPE_ATALK	arcnet.h	47;"	d
+ARCTYPE_BANIAN	arcnet.h	48;"	d
+ARCTYPE_DIAGNOSE	arcnet.h	52;"	d
+ARCTYPE_INET6	arcnet.h	51;"	d
+ARCTYPE_IP	arcnet.h	43;"	d
+ARCTYPE_IPX	arcnet.h	49;"	d
+ARCTYPE_IP_OLD	arcnet.h	39;"	d
+ARCTYPE_REVARP	arcnet.h	45;"	d
+ARGSUSED	pcap-dos.h	68;"	d
+ARP	tokdefs.h	/^     ARP = 271,$/;"	e	enum:yytokentype
+ARP	tokdefs.h	167;"	d
+ATALK	tokdefs.h	/^     ATALK = 283,$/;"	e	enum:yytokentype
+ATALK	tokdefs.h	179;"	d
+ATOMELEM	gencode.h	216;"	d
+ATOMMASK	gencode.h	215;"	d
+A_BCC	gencode.h	149;"	d
+A_CALLPROCEED	gencode.h	161;"	d
+A_CALLREFTYPE	gencode.h	172;"	d
+A_CONNECT	gencode.h	162;"	d
+A_CONNECTACK	gencode.h	163;"	d
+A_CONNECTMSG	gencode.h	174;"	d
+A_ILMIC	gencode.h	153;"	d
+A_LANE	gencode.h	156;"	d
+A_LLC	gencode.h	157;"	d
+A_METAC	gencode.h	148;"	d
+A_METACONNECT	gencode.h	177;"	d
+A_MSGTYPE	gencode.h	171;"	d
+A_OAM	gencode.h	154;"	d
+A_OAMF4	gencode.h	155;"	d
+A_OAMF4EC	gencode.h	151;"	d
+A_OAMF4SC	gencode.h	150;"	d
+A_PROTOTYPE	gencode.h	170;"	d
+A_RELEASE	gencode.h	164;"	d
+A_RELEASE_DONE	gencode.h	165;"	d
+A_SC	gencode.h	152;"	d
+A_SETUP	gencode.h	160;"	d
+A_VCI	gencode.h	169;"	d
+A_VPI	gencode.h	168;"	d
+BCC	tokdefs.h	/^     BCC = 347,$/;"	e	enum:yytokentype
+BCC	tokdefs.h	243;"	d
+BOOL	pcap-dos.h	/^typedef int            BOOL;$/;"	t
+BYTE	pcap-dos.h	/^typedef unsigned char  BYTE;$/;"	t
+B_BEARER	atmuni31.h	70;"	d
+B_HIGHER	atmuni31.h	69;"	d
+B_LOWER	atmuni31.h	71;"	d
+CALLED_PARTY	atmuni31.h	73;"	d
+CALLING_PARTY	atmuni31.h	72;"	d
+CALL_PROCEED	atmuni31.h	46;"	d
+CALL_REF_POS	atmuni31.h	79;"	d
+CARP	tokdefs.h	/^     CARP = 282,$/;"	e	enum:yytokentype
+CARP	tokdefs.h	178;"	d
+CAUSE	atmuni31.h	63;"	d
+CBYTE	tokdefs.h	/^     CBYTE = 270,$/;"	e	enum:yytokentype
+CBYTE	tokdefs.h	166;"	d
+CC	Makefile	/^CC=\/opt\/toolchain-mipsel_3.3.6_BRCM24\/bin\/mipsel-linux-uclibc-gcc$/;"	m
+CCOPTS	Makefile	/^CCOPTS=-O2 -Os -pipe -mips32 -mtune=mips32$/;"	m
+CLNP	tokdefs.h	/^     CLNP = 332,$/;"	e	enum:yytokentype
+CLNP	tokdefs.h	228;"	d
+CONNECT	atmuni31.h	47;"	d
+CONNECTMSG	tokdefs.h	/^     CONNECTMSG = 354,$/;"	e	enum:yytokentype
+CONNECTMSG	tokdefs.h	250;"	d
+CONNECT_ACK	atmuni31.h	48;"	d
+CONNECT_ID	atmuni31.h	67;"	d
+CSNP	tokdefs.h	/^     CSNP = 339,$/;"	e	enum:yytokentype
+CSNP	tokdefs.h	235;"	d
+DECNET	tokdefs.h	/^     DECNET = 285,$/;"	e	enum:yytokentype
+DECNET	tokdefs.h	181;"	d
+DIR	tokdefs.h	/^     DIR = 303,$/;"	e	enum:yytokentype
+DIR	tokdefs.h	199;"	d
+DJGPP	pcap-dos.h	35;"	d
+DOS4GW	pcap-dos.h	36;"	d
+DOSX	pcap-dos.h	39;"	d
+DOSX	pcap-dos.h	40;"	d
+DOSX	pcap-dos.h	44;"	d
+DOSX	pcap-dos.h	45;"	d
+DOSX	pcap-dos.h	50;"	d
+DOSX	pcap-dos.h	51;"	d
+DOSX	pcap-dos.h	71;"	d
+DPC	tokdefs.h	/^     DPC = 364,$/;"	e	enum:yytokentype
+DPC	tokdefs.h	260;"	d
+DROP_PARTY	atmuni31.h	59;"	d
+DROP_PARTY_ACK	atmuni31.h	60;"	d
+DST	tokdefs.h	/^     DST = 258,$/;"	e	enum:yytokentype
+DST	tokdefs.h	154;"	d
+DWORD	pcap-dos.h	/^typedef unsigned long  DWORD;$/;"	t
+EID	tokdefs.h	/^     EID = 315,$/;"	e	enum:yytokentype
+EID	tokdefs.h	211;"	d
+ENDPT_REF	atmuni31.h	64;"	d
+ESIS	tokdefs.h	/^     ESIS = 331,$/;"	e	enum:yytokentype
+ESIS	tokdefs.h	227;"	d
+ESP	tokdefs.h	/^     ESP = 325,$/;"	e	enum:yytokentype
+ESP	tokdefs.h	221;"	d
+ETHER	pcap-dos.h	/^typedef BYTE           ETHER[6];$/;"	t
+ETHERTYPE_8021Q	ethertype.h	97;"	d
+ETHERTYPE_8021QINQ	ethertype.h	121;"	d
+ETHERTYPE_AARP	ethertype.h	94;"	d
+ETHERTYPE_ARP	ethertype.h	43;"	d
+ETHERTYPE_ATALK	ethertype.h	91;"	d
+ETHERTYPE_DECDNS	ethertype.h	79;"	d
+ETHERTYPE_DECDTS	ethertype.h	82;"	d
+ETHERTYPE_DN	ethertype.h	64;"	d
+ETHERTYPE_IP	ethertype.h	40;"	d
+ETHERTYPE_IPV6	ethertype.h	103;"	d
+ETHERTYPE_IPX	ethertype.h	100;"	d
+ETHERTYPE_LANBRIDGE	ethertype.h	76;"	d
+ETHERTYPE_LAT	ethertype.h	67;"	d
+ETHERTYPE_LOOPBACK	ethertype.h	118;"	d
+ETHERTYPE_MOPDL	ethertype.h	58;"	d
+ETHERTYPE_MOPRC	ethertype.h	61;"	d
+ETHERTYPE_MPLS	ethertype.h	106;"	d
+ETHERTYPE_MPLS_MULTI	ethertype.h	109;"	d
+ETHERTYPE_NS	ethertype.h	49;"	d
+ETHERTYPE_PPPOED	ethertype.h	112;"	d
+ETHERTYPE_PPPOES	ethertype.h	115;"	d
+ETHERTYPE_PUP	ethertype.h	37;"	d
+ETHERTYPE_REVARP	ethertype.h	46;"	d
+ETHERTYPE_REVARP	ethertype.h	73;"	d
+ETHERTYPE_SCA	ethertype.h	70;"	d
+ETHERTYPE_SPRITE	ethertype.h	52;"	d
+ETHERTYPE_TRAIL	ethertype.h	55;"	d
+ETHERTYPE_VEXP	ethertype.h	85;"	d
+ETHERTYPE_VPROD	ethertype.h	88;"	d
+ETH_ALEN	pcap-dos.h	23;"	d
+ETH_HLEN	pcap-dos.h	24;"	d
+ETH_MAX	pcap-dos.h	27;"	d
+ETH_MIN	pcap-dos.h	26;"	d
+ETH_MTU	pcap-dos.h	25;"	d
+FALSE	pcap-dos.h	31;"	d
+FIELD_BEGIN_POS	atmuni31.h	87;"	d
+FISU	tokdefs.h	/^     FISU = 359,$/;"	e	enum:yytokentype
+FISU	tokdefs.h	255;"	d
+GATEWAY	tokdefs.h	/^     GATEWAY = 261,$/;"	e	enum:yytokentype
+GATEWAY	tokdefs.h	157;"	d
+GEQ	tokdefs.h	/^     GEQ = 311,$/;"	e	enum:yytokentype
+GEQ	tokdefs.h	207;"	d
+GREATER	tokdefs.h	/^     GREATER = 267,$/;"	e	enum:yytokentype
+GREATER	tokdefs.h	163;"	d
+HAVE_FSEEKO	config.h	39;"	d
+HAVE_INTTYPES_H	config.h	51;"	d
+HAVE_LIMITS_H	config.h	63;"	d
+HAVE_LINUX_COMPILER_H	config.h	66;"	d
+HAVE_LINUX_IF_PACKET_H	config.h	72;"	d
+HAVE_LINUX_TYPES_H	config.h	81;"	d
+HAVE_LINUX_USBDEVICE_FS_H	config.h	84;"	d
+HAVE_LINUX_WIRELESS_H	config.h	87;"	d
+HAVE_MEMORY_H	config.h	90;"	d
+HAVE_NETINET_IF_ETHER_H	config.h	96;"	d
+HAVE_NETPACKET_PACKET_H	config.h	102;"	d
+HAVE_PATHS_H	config.h	114;"	d
+HAVE_SNPRINTF	config.h	126;"	d
+HAVE_SOCKADDR_STORAGE	config.h	132;"	d
+HAVE_SOCKLEN_T	config.h	135;"	d
+HAVE_STDINT_H	config.h	141;"	d
+HAVE_STDLIB_H	config.h	144;"	d
+HAVE_STRERROR	config.h	147;"	d
+HAVE_STRINGS_H	config.h	150;"	d
+HAVE_STRING_H	config.h	153;"	d
+HAVE_STRLCPY	config.h	156;"	d
+HAVE_SYS_BITYPES_H	config.h	165;"	d
+HAVE_SYS_STAT_H	config.h	180;"	d
+HAVE_SYS_TYPES_H	config.h	183;"	d
+HAVE_TPACKET_STATS	config.h	186;"	d
+HAVE_UNISTD_H	config.h	189;"	d
+HAVE_VERSION_H	config.h	195;"	d
+HAVE_VSNPRINTF	config.h	198;"	d
+HAVE___ATTRIBUTE__	config.h	204;"	d
+HID	tokdefs.h	/^     HID = 316,$/;"	e	enum:yytokentype
+HID	tokdefs.h	212;"	d
+HID6	tokdefs.h	/^     HID6 = 317,$/;"	e	enum:yytokentype
+HID6	tokdefs.h	213;"	d
+HOST	tokdefs.h	/^     HOST = 260,$/;"	e	enum:yytokentype
+HOST	tokdefs.h	156;"	d
+HOST_TIMEOUT	wiviz.c	21;"	d	file:
+ICMP	tokdefs.h	/^     ICMP = 277,$/;"	e	enum:yytokentype
+ICMP	tokdefs.h	173;"	d
+ICMPV6	tokdefs.h	/^     ICMPV6 = 323,$/;"	e	enum:yytokentype
+ICMPV6	tokdefs.h	219;"	d
+ID	tokdefs.h	/^     ID = 314,$/;"	e	enum:yytokentype
+ID	tokdefs.h	210;"	d
+IEEE80211_CTL_SUBTYPE_NAMES	ieee80211.h	122;"	d
+IEEE80211_DATA_SUBTYPE_NAMES	ieee80211.h	133;"	d
+IEEE80211_FC0_SUBTYPE_ACK	ieee80211.h	68;"	d
+IEEE80211_FC0_SUBTYPE_ASSOC_REQ	ieee80211.h	53;"	d
+IEEE80211_FC0_SUBTYPE_ASSOC_RESP	ieee80211.h	54;"	d
+IEEE80211_FC0_SUBTYPE_ATIM	ieee80211.h	60;"	d
+IEEE80211_FC0_SUBTYPE_AUTH	ieee80211.h	62;"	d
+IEEE80211_FC0_SUBTYPE_BEACON	ieee80211.h	59;"	d
+IEEE80211_FC0_SUBTYPE_CF_ACK	ieee80211.h	73;"	d
+IEEE80211_FC0_SUBTYPE_CF_ACPL	ieee80211.h	75;"	d
+IEEE80211_FC0_SUBTYPE_CF_END	ieee80211.h	69;"	d
+IEEE80211_FC0_SUBTYPE_CF_END_ACK	ieee80211.h	70;"	d
+IEEE80211_FC0_SUBTYPE_CF_POLL	ieee80211.h	74;"	d
+IEEE80211_FC0_SUBTYPE_CTS	ieee80211.h	67;"	d
+IEEE80211_FC0_SUBTYPE_DATA	ieee80211.h	72;"	d
+IEEE80211_FC0_SUBTYPE_DEAUTH	ieee80211.h	63;"	d
+IEEE80211_FC0_SUBTYPE_DISASSOC	ieee80211.h	61;"	d
+IEEE80211_FC0_SUBTYPE_MASK	ieee80211.h	50;"	d
+IEEE80211_FC0_SUBTYPE_NODATA	ieee80211.h	76;"	d
+IEEE80211_FC0_SUBTYPE_NODATA_CF_ACK	ieee80211.h	77;"	d
+IEEE80211_FC0_SUBTYPE_NODATA_CF_ACPL	ieee80211.h	79;"	d
+IEEE80211_FC0_SUBTYPE_NODATA_CF_POLL	ieee80211.h	78;"	d
+IEEE80211_FC0_SUBTYPE_PROBE_REQ	ieee80211.h	57;"	d
+IEEE80211_FC0_SUBTYPE_PROBE_RESP	ieee80211.h	58;"	d
+IEEE80211_FC0_SUBTYPE_PS_POLL	ieee80211.h	65;"	d
+IEEE80211_FC0_SUBTYPE_QOS	ieee80211.h	80;"	d
+IEEE80211_FC0_SUBTYPE_QOS_NULL	ieee80211.h	81;"	d
+IEEE80211_FC0_SUBTYPE_REASSOC_REQ	ieee80211.h	55;"	d
+IEEE80211_FC0_SUBTYPE_REASSOC_RESP	ieee80211.h	56;"	d
+IEEE80211_FC0_SUBTYPE_RTS	ieee80211.h	66;"	d
+IEEE80211_FC0_SUBTYPE_SHIFT	ieee80211.h	51;"	d
+IEEE80211_FC0_TYPE_CTL	ieee80211.h	47;"	d
+IEEE80211_FC0_TYPE_DATA	ieee80211.h	48;"	d
+IEEE80211_FC0_TYPE_MASK	ieee80211.h	44;"	d
+IEEE80211_FC0_TYPE_MGT	ieee80211.h	46;"	d
+IEEE80211_FC0_TYPE_SHIFT	ieee80211.h	45;"	d
+IEEE80211_FC0_VERSION_0	ieee80211.h	43;"	d
+IEEE80211_FC0_VERSION_MASK	ieee80211.h	41;"	d
+IEEE80211_FC0_VERSION_SHIFT	ieee80211.h	42;"	d
+IEEE80211_FC1_DIR_DSTODS	ieee80211.h	87;"	d
+IEEE80211_FC1_DIR_FROMDS	ieee80211.h	86;"	d
+IEEE80211_FC1_DIR_MASK	ieee80211.h	83;"	d
+IEEE80211_FC1_DIR_NODS	ieee80211.h	84;"	d
+IEEE80211_FC1_DIR_TODS	ieee80211.h	85;"	d
+IEEE80211_FC1_MORE_DATA	ieee80211.h	92;"	d
+IEEE80211_FC1_MORE_FRAG	ieee80211.h	89;"	d
+IEEE80211_FC1_ORDER	ieee80211.h	94;"	d
+IEEE80211_FC1_PWR_MGT	ieee80211.h	91;"	d
+IEEE80211_FC1_RETRY	ieee80211.h	90;"	d
+IEEE80211_FC1_WEP	ieee80211.h	93;"	d
+IEEE80211_FROM_DS	structs.h	44;"	d
+IEEE80211_MGT_SUBTYPE_NAMES	ieee80211.h	111;"	d
+IEEE80211_MORE_DATA	structs.h	48;"	d
+IEEE80211_MORE_FRAG	structs.h	45;"	d
+IEEE80211_NWID_LEN	ieee80211.h	101;"	d
+IEEE80211_ORDER_FLAG	structs.h	50;"	d
+IEEE80211_PWR_MGT	structs.h	47;"	d
+IEEE80211_QOS_ACKPOLICY	ieee80211.h	105;"	d
+IEEE80211_QOS_ACKPOLICY_S	ieee80211.h	106;"	d
+IEEE80211_QOS_ESOP	ieee80211.h	107;"	d
+IEEE80211_QOS_ESOP_S	ieee80211.h	108;"	d
+IEEE80211_QOS_TID	ieee80211.h	109;"	d
+IEEE80211_QOS_TXOP	ieee80211.h	103;"	d
+IEEE80211_RETRY	structs.h	46;"	d
+IEEE80211_SEQ_FRAG_MASK	ieee80211.h	96;"	d
+IEEE80211_SEQ_FRAG_SHIFT	ieee80211.h	97;"	d
+IEEE80211_SEQ_SEQ_MASK	ieee80211.h	98;"	d
+IEEE80211_SEQ_SEQ_SHIFT	ieee80211.h	99;"	d
+IEEE80211_TO_DS	structs.h	43;"	d
+IEEE80211_TYPE_NAMES	ieee80211.h	144;"	d
+IEEE80211_WEP_FLAG	structs.h	49;"	d
+IE_BEGIN_POS	atmuni31.h	82;"	d
+IGMP	tokdefs.h	/^     IGMP = 278,$/;"	e	enum:yytokentype
+IGMP	tokdefs.h	174;"	d
+IGRP	tokdefs.h	/^     IGRP = 279,$/;"	e	enum:yytokentype
+IGRP	tokdefs.h	175;"	d
+IIH	tokdefs.h	/^     IIH = 336,$/;"	e	enum:yytokentype
+IIH	tokdefs.h	232;"	d
+ILMIC	tokdefs.h	/^     ILMIC = 349,$/;"	e	enum:yytokentype
+ILMIC	tokdefs.h	245;"	d
+INBOUND	tokdefs.h	/^     INBOUND = 293,$/;"	e	enum:yytokentype
+INBOUND	tokdefs.h	189;"	d
+INCLUDE	Makefile	/^INCLUDE=\/opt\/toolchain-mipsel_3.3.6_BRCM24\/lib$/;"	m
+INET6	config.h	207;"	d
+IP	tokdefs.h	/^     IP = 273,$/;"	e	enum:yytokentype
+IP	tokdefs.h	169;"	d
+IPV6	tokdefs.h	/^     IPV6 = 322,$/;"	e	enum:yytokentype
+IPV6	tokdefs.h	218;"	d
+IPX	tokdefs.h	/^     IPX = 342,$/;"	e	enum:yytokentype
+IPX	tokdefs.h	238;"	d
+ISIS	tokdefs.h	/^     ISIS = 333,$/;"	e	enum:yytokentype
+ISIS	tokdefs.h	229;"	d
+ISIS_L1_CSNP	nlpid.h	48;"	d
+ISIS_L1_LAN_IIH	nlpid.h	43;"	d
+ISIS_L1_LSP	nlpid.h	46;"	d
+ISIS_L1_PSNP	nlpid.h	50;"	d
+ISIS_L2_CSNP	nlpid.h	49;"	d
+ISIS_L2_LAN_IIH	nlpid.h	44;"	d
+ISIS_L2_LSP	nlpid.h	47;"	d
+ISIS_L2_PSNP	nlpid.h	51;"	d
+ISIS_PTP_IIH	nlpid.h	45;"	d
+ISO	tokdefs.h	/^     ISO = 330,$/;"	e	enum:yytokentype
+ISO	tokdefs.h	226;"	d
+ISO10589_ISIS	nlpid.h	36;"	d
+ISO10747_IDRP	nlpid.h	57;"	d
+ISO8473_CLNP	nlpid.h	27;"	d
+ISO8878A_CONS	nlpid.h	54;"	d
+ISO9542X25_ESIS	nlpid.h	33;"	d
+ISO9542_ESIS	nlpid.h	30;"	d
+JF	gencode.h	341;"	d
+JT	gencode.h	340;"	d
+L1	tokdefs.h	/^     L1 = 334,$/;"	e	enum:yytokentype
+L1	tokdefs.h	230;"	d
+L2	tokdefs.h	/^     L2 = 335,$/;"	e	enum:yytokentype
+L2	tokdefs.h	231;"	d
+LANE	tokdefs.h	/^     LANE = 344,$/;"	e	enum:yytokentype
+LANE	tokdefs.h	240;"	d
+LAT	tokdefs.h	/^     LAT = 286,$/;"	e	enum:yytokentype
+LAT	tokdefs.h	182;"	d
+LBL_ALIGN	config.h	210;"	d
+LEN	tokdefs.h	/^     LEN = 321,$/;"	e	enum:yytokentype
+LEN	tokdefs.h	217;"	d
+LEN_POS	atmuni31.h	86;"	d
+LEQ	tokdefs.h	/^     LEQ = 312,$/;"	e	enum:yytokentype
+LEQ	tokdefs.h	208;"	d
+LESS	tokdefs.h	/^     LESS = 266,$/;"	e	enum:yytokentype
+LESS	tokdefs.h	162;"	d
+LIBS	Makefile	/^LIBS=libpcap.a$/;"	m
+LINK	tokdefs.h	/^     LINK = 310,$/;"	e	enum:yytokentype
+LINK	tokdefs.h	206;"	d
+LINUX_USB_MON_DEV	config.h	213;"	d
+LLC	tokdefs.h	/^     LLC = 345,$/;"	e	enum:yytokentype
+LLC	tokdefs.h	241;"	d
+LLCSAP_8021B_G	llc.h	38;"	d
+LLCSAP_8021B_I	llc.h	35;"	d
+LLCSAP_8021D	llc.h	47;"	d
+LLCSAP_GLOBAL	llc.h	32;"	d
+LLCSAP_IP	llc.h	41;"	d
+LLCSAP_IPX	llc.h	62;"	d
+LLCSAP_ISO8208	llc.h	53;"	d
+LLCSAP_ISONS	llc.h	68;"	d
+LLCSAP_NETBEUI	llc.h	65;"	d
+LLCSAP_NULL	llc.h	29;"	d
+LLCSAP_PROWAY	llc.h	56;"	d
+LLCSAP_PROWAYNM	llc.h	44;"	d
+LLCSAP_RS511	llc.h	50;"	d
+LLCSAP_SNAP	llc.h	59;"	d
+LOCKED_FUNC	pcap-dos.h	140;"	d
+LOCKED_VAR	pcap-dos.h	139;"	d
+LSH	tokdefs.h	/^     LSH = 319,$/;"	e	enum:yytokentype
+LSH	tokdefs.h	215;"	d
+LSP	tokdefs.h	/^     LSP = 337,$/;"	e	enum:yytokentype
+LSP	tokdefs.h	233;"	d
+LSSU	tokdefs.h	/^     LSSU = 360,$/;"	e	enum:yytokentype
+LSSU	tokdefs.h	256;"	d
+MAX_HOSTS	structs.h	19;"	d
+MAX_PROBES	wiviz.c	441;"	d	file:
+MAX_STA_COUNT	wiviz.c	514;"	d	file:
+MAYBE_SWAPPED	pcap-int.h	/^	MAYBE_SWAPPED$/;"	e	enum:__anon1
+METAC	tokdefs.h	/^     METAC = 346,$/;"	e	enum:yytokentype
+METAC	tokdefs.h	242;"	d
+METACONNECT	tokdefs.h	/^     METACONNECT = 355,$/;"	e	enum:yytokentype
+METACONNECT	tokdefs.h	251;"	d
+MGT_CAPS_AP	structs.h	62;"	d
+MGT_CAPS_IBSS	structs.h	63;"	d
+MGT_CAPS_WEP	structs.h	64;"	d
+MOPDL	tokdefs.h	/^     MOPDL = 289,$/;"	e	enum:yytokentype
+MOPDL	tokdefs.h	185;"	d
+MOPRC	tokdefs.h	/^     MOPRC = 288,$/;"	e	enum:yytokentype
+MOPRC	tokdefs.h	184;"	d
+MPLS	tokdefs.h	/^     MPLS = 327,$/;"	e	enum:yytokentype
+MPLS	tokdefs.h	223;"	d
+MSG_LEN_POS	atmuni31.h	81;"	d
+MSG_TYPE_POS	atmuni31.h	80;"	d
+MSU	tokdefs.h	/^     MSU = 361,$/;"	e	enum:yytokentype
+MSU	tokdefs.h	257;"	d
+MUST_CLEAR_PROMISC	pcap-int.h	203;"	d
+MUST_CLEAR_RFMON	pcap-int.h	204;"	d
+MUST_DELETE_MONIF	pcap-int.h	205;"	d
+M_DPC	gencode.h	192;"	d
+M_FISU	gencode.h	185;"	d
+M_LSSU	gencode.h	186;"	d
+M_MSU	gencode.h	187;"	d
+M_OPC	gencode.h	191;"	d
+M_SIO	gencode.h	190;"	d
+M_SLS	gencode.h	193;"	d
+NEQ	tokdefs.h	/^     NEQ = 313,$/;"	e	enum:yytokentype
+NEQ	tokdefs.h	209;"	d
+NET	tokdefs.h	/^     NET = 262,$/;"	e	enum:yytokentype
+NET	tokdefs.h	158;"	d
+NETBEUI	tokdefs.h	/^     NETBEUI = 343,$/;"	e	enum:yytokentype
+NETBEUI	tokdefs.h	239;"	d
+NETMASK	tokdefs.h	/^     NETMASK = 263,$/;"	e	enum:yytokentype
+NETMASK	tokdefs.h	159;"	d
+NET_STATS	pcap-dos.h	/^        } NET_STATS;$/;"	t	typeref:struct:net_device_stats
+NOT_SWAPPED	pcap-int.h	/^	NOT_SWAPPED,$/;"	e	enum:__anon1
+NUM	tokdefs.h	/^     NUM = 292,$/;"	e	enum:yytokentype
+NUM	tokdefs.h	188;"	d
+N_ATOMS	gencode.h	227;"	d
+OAM	tokdefs.h	/^     OAM = 352,$/;"	e	enum:yytokentype
+OAM	tokdefs.h	248;"	d
+OAMF4	tokdefs.h	/^     OAMF4 = 353,$/;"	e	enum:yytokentype
+OAMF4	tokdefs.h	249;"	d
+OAMF4EC	tokdefs.h	/^     OAMF4EC = 350,$/;"	e	enum:yytokentype
+OAMF4EC	tokdefs.h	246;"	d
+OAMF4SC	tokdefs.h	/^     OAMF4SC = 351,$/;"	e	enum:yytokentype
+OAMF4SC	tokdefs.h	247;"	d
+OBJS	Makefile	/^OBJS=wiviz.o wl_access.o channelhopper.o$/;"	m
+OFFLINE	wiviz.c	28;"	d	file:
+OPC	tokdefs.h	/^     OPC = 363,$/;"	e	enum:yytokentype
+OPC	tokdefs.h	259;"	d
+OR	tokdefs.h	/^     OR = 367,$/;"	e	enum:yytokentype
+OR	tokdefs.h	263;"	d
+OUTBOUND	tokdefs.h	/^     OUTBOUND = 294,$/;"	e	enum:yytokentype
+OUTBOUND	tokdefs.h	190;"	d
+OrigMissed	pcap-int.h	/^	long	OrigMissed;	\/* missed by i\/f before this run *\/$/;"	m	struct:pcap_md
+PACKAGE_BUGREPORT	config.h	225;"	d
+PACKAGE_NAME	config.h	228;"	d
+PACKAGE_STRING	config.h	231;"	d
+PACKAGE_TARNAME	config.h	234;"	d
+PACKAGE_VERSION	config.h	237;"	d
+PCAP_ASSERT	pcap-dos.h	216;"	d
+PCAP_ASSERT	pcap-dos.h	221;"	d
+PCAP_FDDIPAD	pcap-int.h	225;"	d
+PCAP_SUPPORT_USB	config.h	252;"	d
+PF_ACTION	tokdefs.h	/^     PF_ACTION = 300,$/;"	e	enum:yytokentype
+PF_ACTION	tokdefs.h	196;"	d
+PF_IFNAME	tokdefs.h	/^     PF_IFNAME = 295,$/;"	e	enum:yytokentype
+PF_IFNAME	tokdefs.h	191;"	d
+PF_REASON	tokdefs.h	/^     PF_REASON = 299,$/;"	e	enum:yytokentype
+PF_REASON	tokdefs.h	195;"	d
+PF_RNR	tokdefs.h	/^     PF_RNR = 297,$/;"	e	enum:yytokentype
+PF_RNR	tokdefs.h	193;"	d
+PF_RSET	tokdefs.h	/^     PF_RSET = 296,$/;"	e	enum:yytokentype
+PF_RSET	tokdefs.h	192;"	d
+PF_SRNR	tokdefs.h	/^     PF_SRNR = 298,$/;"	e	enum:yytokentype
+PF_SRNR	tokdefs.h	194;"	d
+PHARLAP	pcap-dos.h	34;"	d
+PIM	tokdefs.h	/^     PIM = 280,$/;"	e	enum:yytokentype
+PIM	tokdefs.h	176;"	d
+PORT	tokdefs.h	/^     PORT = 264,$/;"	e	enum:yytokentype
+PORT	tokdefs.h	160;"	d
+PORTRANGE	tokdefs.h	/^     PORTRANGE = 265,$/;"	e	enum:yytokentype
+PORTRANGE	tokdefs.h	161;"	d
+PPPOED	tokdefs.h	/^     PPPOED = 328,$/;"	e	enum:yytokentype
+PPPOED	tokdefs.h	224;"	d
+PPPOES	tokdefs.h	/^     PPPOES = 329,$/;"	e	enum:yytokentype
+PPPOES	tokdefs.h	225;"	d
+PPP_ADDRESS	ppp.h	18;"	d
+PPP_APPLE	ppp.h	29;"	d
+PPP_APPLECP	ppp.h	48;"	d
+PPP_BRPDU	ppp.h	33;"	d
+PPP_CHAP	ppp.h	58;"	d
+PPP_CONTROL	ppp.h	19;"	d
+PPP_DECNET	ppp.h	28;"	d
+PPP_DECNETCP	ppp.h	47;"	d
+PPP_HELLO	ppp.h	38;"	d
+PPP_IP	ppp.h	25;"	d
+PPP_IPCP	ppp.h	44;"	d
+PPP_IPV6	ppp.h	36;"	d
+PPP_IPV6CP	ppp.h	52;"	d
+PPP_IPX	ppp.h	30;"	d
+PPP_IPXCP	ppp.h	49;"	d
+PPP_LCP	ppp.h	55;"	d
+PPP_LQM	ppp.h	57;"	d
+PPP_LUXCOM	ppp.h	39;"	d
+PPP_MPLSCP	ppp.h	53;"	d
+PPP_MPLS_MCAST	ppp.h	42;"	d
+PPP_MPLS_UCAST	ppp.h	41;"	d
+PPP_NS	ppp.h	27;"	d
+PPP_NSCP	ppp.h	46;"	d
+PPP_OSI	ppp.h	26;"	d
+PPP_OSICP	ppp.h	45;"	d
+PPP_PAP	ppp.h	56;"	d
+PPP_PPPD_IN	ppp.h	21;"	d
+PPP_PPPD_OUT	ppp.h	22;"	d
+PPP_SNS	ppp.h	40;"	d
+PPP_STII	ppp.h	34;"	d
+PPP_STIICP	ppp.h	50;"	d
+PPP_VINES	ppp.h	35;"	d
+PPP_VINESCP	ppp.h	51;"	d
+PPP_VJC	ppp.h	31;"	d
+PPP_VJNC	ppp.h	32;"	d
+PROTO	tokdefs.h	/^     PROTO = 268,$/;"	e	enum:yytokentype
+PROTO	tokdefs.h	164;"	d
+PROTOCHAIN	tokdefs.h	/^     PROTOCHAIN = 269,$/;"	e	enum:yytokentype
+PROTOCHAIN	tokdefs.h	165;"	d
+PROTO_POS	atmuni31.h	78;"	d
+PSNP	tokdefs.h	/^     PSNP = 340,$/;"	e	enum:yytokentype
+PSNP	tokdefs.h	236;"	d
+PT_ILMI	sunatmpos.h	44;"	d
+PT_LANE	sunatmpos.h	42;"	d
+PT_LLC	sunatmpos.h	43;"	d
+PT_QSAAL	sunatmpos.h	45;"	d
+Packet	pcap-int.h	/^	LPPACKET Packet;$/;"	m	struct:pcap
+Q2931	atmuni31.h	75;"	d
+QOS_PARA	atmuni31.h	68;"	d
+QWORD	pcap-dos.h	/^  typedef unsigned __int64  QWORD;$/;"	t
+QWORD	pcap-dos.h	/^  typedef unsigned long long  QWORD;$/;"	t
+Q_AARP	gencode.h	102;"	d
+Q_ADDR1	gencode.h	137;"	d
+Q_ADDR2	gencode.h	138;"	d
+Q_ADDR3	gencode.h	139;"	d
+Q_ADDR4	gencode.h	140;"	d
+Q_AH	gencode.h	96;"	d
+Q_AND	gencode.h	136;"	d
+Q_ARP	gencode.h	76;"	d
+Q_ATALK	gencode.h	86;"	d
+Q_CARP	gencode.h	129;"	d
+Q_CLNP	gencode.h	107;"	d
+Q_DECNET	gencode.h	87;"	d
+Q_DEFAULT	gencode.h	144;"	d
+Q_DST	gencode.h	134;"	d
+Q_ESIS	gencode.h	105;"	d
+Q_ESP	gencode.h	97;"	d
+Q_GATEWAY	gencode.h	67;"	d
+Q_HOST	gencode.h	64;"	d
+Q_ICMP	gencode.h	81;"	d
+Q_ICMPV6	gencode.h	95;"	d
+Q_IGMP	gencode.h	82;"	d
+Q_IGRP	gencode.h	83;"	d
+Q_IP	gencode.h	75;"	d
+Q_IPV6	gencode.h	94;"	d
+Q_IPX	gencode.h	111;"	d
+Q_ISIS	gencode.h	106;"	d
+Q_ISIS_CSNP	gencode.h	123;"	d
+Q_ISIS_IIH	gencode.h	119;"	d
+Q_ISIS_L1	gencode.h	116;"	d
+Q_ISIS_L2	gencode.h	117;"	d
+Q_ISIS_LAN_IIH	gencode.h	120;"	d
+Q_ISIS_LSP	gencode.h	125;"	d
+Q_ISIS_PSNP	gencode.h	124;"	d
+Q_ISIS_PTP_IIH	gencode.h	121;"	d
+Q_ISIS_SNP	gencode.h	122;"	d
+Q_ISO	gencode.h	104;"	d
+Q_LAT	gencode.h	88;"	d
+Q_LINK	gencode.h	74;"	d
+Q_MOPDL	gencode.h	91;"	d
+Q_MOPRC	gencode.h	90;"	d
+Q_NET	gencode.h	65;"	d
+Q_NETBEUI	gencode.h	113;"	d
+Q_OR	gencode.h	135;"	d
+Q_PIM	gencode.h	99;"	d
+Q_PORT	gencode.h	66;"	d
+Q_PORTRANGE	gencode.h	70;"	d
+Q_PROTO	gencode.h	68;"	d
+Q_PROTOCHAIN	gencode.h	69;"	d
+Q_RA	gencode.h	141;"	d
+Q_RADIO	gencode.h	127;"	d
+Q_RARP	gencode.h	77;"	d
+Q_SCA	gencode.h	89;"	d
+Q_SCTP	gencode.h	78;"	d
+Q_SRC	gencode.h	133;"	d
+Q_STP	gencode.h	109;"	d
+Q_TA	gencode.h	142;"	d
+Q_TCP	gencode.h	79;"	d
+Q_UDP	gencode.h	80;"	d
+Q_UNDEF	gencode.h	145;"	d
+Q_VRRP	gencode.h	100;"	d
+RA	tokdefs.h	/^     RA = 308,$/;"	e	enum:yytokentype
+RA	tokdefs.h	204;"	d
+RADIO	tokdefs.h	/^     RADIO = 358,$/;"	e	enum:yytokentype
+RADIO	tokdefs.h	254;"	d
+RARP	tokdefs.h	/^     RARP = 272,$/;"	e	enum:yytokentype
+RARP	tokdefs.h	168;"	d
+RECEIVE_BUF_SIZE	pcap-dos.h	106;"	d
+RECEIVE_QUEUE_SIZE	pcap-dos.h	102;"	d
+RELEASE	atmuni31.h	50;"	d
+RELEASE_DONE	atmuni31.h	51;"	d
+RESTART	atmuni31.h	52;"	d
+RESTART_ACK	atmuni31.h	53;"	d
+RSH	tokdefs.h	/^     RSH = 320,$/;"	e	enum:yytokentype
+RSH	tokdefs.h	216;"	d
+RSSI	structs.h	/^  int RSSI;$/;"	m	struct:__anon11
+RSSI	wl_access.h	/^  int RSSI;$/;"	m	struct:sta_rssi
+SC	tokdefs.h	/^     SC = 348,$/;"	e	enum:yytokentype
+SC	tokdefs.h	244;"	d
+SCA	tokdefs.h	/^     SCA = 287,$/;"	e	enum:yytokentype
+SCA	tokdefs.h	183;"	d
+SCTP	tokdefs.h	/^     SCTP = 274,$/;"	e	enum:yytokentype
+SCTP	tokdefs.h	170;"	d
+SETUP	atmuni31.h	49;"	d
+SIO	tokdefs.h	/^     SIO = 362,$/;"	e	enum:yytokentype
+SIO	tokdefs.h	258;"	d
+SLS	tokdefs.h	/^     SLS = 365,$/;"	e	enum:yytokentype
+SLS	tokdefs.h	261;"	d
+SNP	tokdefs.h	/^     SNP = 338,$/;"	e	enum:yytokentype
+SNP	tokdefs.h	234;"	d
+SOURCES	Makefile	/^SOURCES=wiviz.c wl_access.c channelhopper.c$/;"	m
+SRC	tokdefs.h	/^     SRC = 259,$/;"	e	enum:yytokentype
+SRC	tokdefs.h	155;"	d
+SSID	wl_access.h	/^	uchar		SSID[32];$/;"	m	struct:wlc_ssid
+SSID_len	wl_access.h	/^	uint32		SSID_len;$/;"	m	struct:wlc_ssid
+STATUS	atmuni31.h	54;"	d
+STATUS_ENQ	atmuni31.h	55;"	d
+STDC_HEADERS	config.h	258;"	d
+STP	tokdefs.h	/^     STP = 341,$/;"	e	enum:yytokentype
+STP	tokdefs.h	237;"	d
+SUBTYPE	tokdefs.h	/^     SUBTYPE = 302,$/;"	e	enum:yytokentype
+SUBTYPE	tokdefs.h	198;"	d
+SUNATM_DIR_POS	sunatmpos.h	36;"	d
+SUNATM_PKT_BEGIN_POS	sunatmpos.h	39;"	d
+SUNATM_VCI_POS	sunatmpos.h	38;"	d
+SUNATM_VPI_POS	sunatmpos.h	37;"	d
+SWAPLL	pcap-int.h	69;"	d
+SWAPLL	pcap-int.h	84;"	d
+SWAPLONG	pcap-common.h	15;"	d
+SWAPPED	pcap-int.h	/^	SWAPPED,$/;"	e	enum:__anon1
+SWAPSHORT	pcap-common.h	17;"	d
+TA	tokdefs.h	/^     TA = 309,$/;"	e	enum:yytokentype
+TA	tokdefs.h	205;"	d
+TARGET	Makefile	/^TARGET=wiviz$/;"	m
+TCP	tokdefs.h	/^     TCP = 275,$/;"	e	enum:yytokentype
+TCP	tokdefs.h	171;"	d
+TK_BROADCAST	tokdefs.h	/^     TK_BROADCAST = 290,$/;"	e	enum:yytokentype
+TK_BROADCAST	tokdefs.h	186;"	d
+TK_MULTICAST	tokdefs.h	/^     TK_MULTICAST = 291,$/;"	e	enum:yytokentype
+TK_MULTICAST	tokdefs.h	187;"	d
+TRAFF_DESCRIP	atmuni31.h	66;"	d
+TRUE	pcap-dos.h	30;"	d
+TYPE	tokdefs.h	/^     TYPE = 301,$/;"	e	enum:yytokentype
+TYPE	tokdefs.h	197;"	d
+TYPE_AAL2	pcap-dag.h	73;"	d
+TYPE_AAL5	pcap-dag.h	17;"	d
+TYPE_COLOR_ETH	pcap-dag.h	45;"	d
+TYPE_COLOR_HASH_ETH	pcap-dag.h	81;"	d
+TYPE_COLOR_HASH_POS	pcap-dag.h	77;"	d
+TYPE_COLOR_HDLC_POS	pcap-dag.h	41;"	d
+TYPE_COLOR_MC_HDLC_POS	pcap-dag.h	69;"	d
+TYPE_DSM_COLOR_ETH	pcap-dag.h	65;"	d
+TYPE_DSM_COLOR_HDLC_POS	pcap-dag.h	61;"	d
+TYPE_INFINIBAND	pcap-dag.h	85;"	d
+TYPE_INFINIBAND_LINK	pcap-dag.h	101;"	d
+TYPE_IPV4	pcap-dag.h	89;"	d
+TYPE_IPV6	pcap-dag.h	93;"	d
+TYPE_IP_COUNTER	pcap-dag.h	53;"	d
+TYPE_MC_AAL2	pcap-dag.h	49;"	d
+TYPE_MC_AAL5	pcap-dag.h	37;"	d
+TYPE_MC_ATM	pcap-dag.h	29;"	d
+TYPE_MC_HDLC	pcap-dag.h	21;"	d
+TYPE_MC_RAW	pcap-dag.h	25;"	d
+TYPE_MC_RAW_CHANNEL	pcap-dag.h	33;"	d
+TYPE_PAD	pcap-dag.h	107;"	d
+TYPE_POS	atmuni31.h	85;"	d
+TYPE_RAW_LINK	pcap-dag.h	97;"	d
+TYPE_TCP_FLOW_COUNTER	pcap-dag.h	57;"	d
+TotAccepted	pcap-int.h	/^	u_long	TotAccepted;	\/* count accepted by filter *\/$/;"	m	struct:pcap_md
+TotDrops	pcap-int.h	/^	u_long	TotDrops;	\/* count of dropped packets *\/$/;"	m	struct:pcap_md
+TotMissed	pcap-int.h	/^	long	TotMissed;	\/* missed by i\/f during this run *\/$/;"	m	struct:pcap_md
+TotPkts	pcap-int.h	/^	u_long	TotPkts;	\/* can't oflow for 79 hrs on ether *\/$/;"	m	struct:pcap_md
+UDP	tokdefs.h	/^     UDP = 276,$/;"	e	enum:yytokentype
+UDP	tokdefs.h	172;"	d
+UINT	pcap-dos.h	/^  typedef unsigned int UINT;$/;"	t
+UMINUS	tokdefs.h	/^     UMINUS = 368$/;"	e	enum:yytokentype
+UMINUS	tokdefs.h	264;"	d
+VCI	tokdefs.h	/^     VCI = 357,$/;"	e	enum:yytokentype
+VCI	tokdefs.h	253;"	d
+VCI_BCC	atmuni31.h	39;"	d
+VCI_ILMIC	atmuni31.h	43;"	d
+VCI_METAC	atmuni31.h	42;"	d
+VCI_OAMF4EC	atmuni31.h	41;"	d
+VCI_OAMF4SC	atmuni31.h	40;"	d
+VCI_PPC	atmuni31.h	38;"	d
+VLAN	tokdefs.h	/^     VLAN = 326,$/;"	e	enum:yytokentype
+VLAN	tokdefs.h	222;"	d
+VPI	tokdefs.h	/^     VPI = 356,$/;"	e	enum:yytokentype
+VPI	tokdefs.h	252;"	d
+VRRP	tokdefs.h	/^     VRRP = 281,$/;"	e	enum:yytokentype
+VRRP	tokdefs.h	177;"	d
+WLC_GET_AP	wl_access.h	71;"	d
+WLC_GET_ASSOCLIST	wl_access.h	74;"	d
+WLC_GET_BSSID	wl_access.h	63;"	d
+WLC_GET_CHANNEL	wl_access.h	67;"	d
+WLC_GET_MAGIC	wl_access.h	62;"	d
+WLC_GET_MONITOR	wl_access.h	69;"	d
+WLC_GET_RSSI	wl_access.h	73;"	d
+WLC_GET_SSID	wl_access.h	65;"	d
+WLC_IOCTL_MAGIC	wl_access.h	60;"	d
+WLC_SET_AP	wl_access.h	72;"	d
+WLC_SET_BSSID	wl_access.h	64;"	d
+WLC_SET_CHANNEL	wl_access.h	68;"	d
+WLC_SET_MONITOR	wl_access.h	70;"	d
+WLC_SET_SSID	wl_access.h	66;"	d
+WL_DEVICE	wl_access.h	19;"	d
+WORD	pcap-dos.h	/^typedef unsigned short WORD;$/;"	t
+YYSTYPE	tokdefs.h	/^typedef union YYSTYPE$/;"	u
+YYSTYPE	tokdefs.h	/^} YYSTYPE;$/;"	t	typeref:union:YYSTYPE
+YYSTYPE_IS_DECLARED	tokdefs.h	297;"	d
+YYSTYPE_IS_TRIVIAL	tokdefs.h	295;"	d
+YYTOKENTYPE	tokdefs.h	36;"	d
+YY_DECL	scanner.h	4;"	d
+_FILE_OFFSET_BITS	config.h	264;"	d
+_INTPTR_T_DEFINED	pcap-stdinc.h	85;"	d
+_NET80211_IEEE80211_H_	ieee80211.h	35;"	d
+_UINTPTR_T_DEFINED	pcap-stdinc.h	76;"	d
+_U_	pcap-dos.h	91;"	d
+_U_	pcap-dos.h	95;"	d
+_WINSOCKAPI_	pcap-stdinc.h	42;"	d
+__PCAP_DOS_H	pcap-dos.h	9;"	d
+__attribute__	gencode.h	59;"	d
+__cdecl	wiviz.c	31;"	d	file:
+a	tokdefs.h	/^	struct arth *a;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::arth
+activate_op	pcap-int.h	/^	activate_op_t activate_op;$/;"	m	struct:pcap
+activate_op_t	pcap-int.h	/^typedef int	(*activate_op_t)(pcap_t *);$/;"	t
+activated	pcap-int.h	/^	int activated;		\/* true if the capture is really started *\/$/;"	m	struct:pcap
+adapter	pcap-int.h	/^	ADAPTER *adapter;$/;"	m	struct:pcap
+addr	gencode.h	/^	unsigned char addr;$/;"	m	struct:qual
+addr	wl_access.h	/^	uchar addr[6];$/;"	m	struct:ether_addr
+addr1	structs.h	/^  u_char addr1[6];$/;"	m	struct:ieee802_11_hdr
+addr2	structs.h	/^  u_char addr2[6];$/;"	m	struct:ieee802_11_hdr
+addr3	structs.h	/^  u_char addr3[6];$/;"	m	struct:ieee802_11_hdr
+aetEncUnknown	structs.h	/^  aetEncUnknown,$/;"	e	enum:__anon8
+aetEncWEP	structs.h	/^  aetEncWEP,$/;"	e	enum:__anon8
+aetEncWPA	structs.h	/^  aetEncWPA$/;"	e	enum:__anon8
+aetUnencrypted	structs.h	/^  aetUnencrypted,$/;"	e	enum:__anon8
+aetUnknown	structs.h	/^  aetUnknown,$/;"	e	enum:__anon8
+apInfo	structs.h	/^  ap_info * apInfo;$/;"	m	struct:__anon11
+ap_enc_type	structs.h	/^  } ap_enc_type;$/;"	t	typeref:enum:__anon8
+ap_info	structs.h	/^  } ap_info;$/;"	t	typeref:struct:__anon9
+arth	gencode.h	/^struct arth {$/;"	s
+atmfieldtype	tokdefs.h	/^		int atmfieldtype;$/;"	m	struct:YYSTYPE::__anon13
+atomset	gencode.h	/^typedef bpf_u_int32 atomset;$/;"	t
+b	gencode.h	/^	struct block *b;	\/* protocol checks *\/$/;"	m	struct:arth	typeref:struct:arth::block
+b	tokdefs.h	/^		struct block *b;$/;"	m	struct:YYSTYPE::__anon13	typeref:struct:YYSTYPE::__anon13::block
+base_addr	pcap-dos.h	/^         DWORD  base_addr;      \/* device I\/O address       *\/$/;"	m	struct:device
+bcn_interval	structs.h	/^  u_short bcn_interval;$/;"	m	struct:__anon3
+blk	tokdefs.h	/^	} blk;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::__anon13
+block	gencode.h	/^struct block {$/;"	s
+bool	wl_access.h	/^typedef int bool;$/;"	t
+bp	pcap-int.h	/^	u_char *bp;$/;"	m	struct:pcap
+break_loop	pcap-int.h	/^	int break_loop;		\/* flag set to force break from packet-reading loop *\/$/;"	m	struct:pcap
+bssid	structs.h	/^  u_char bssid[6];$/;"	m	struct:__anon9
+buf	wl_access.h	/^	void *buf;	\/* pointer to user buffer *\/$/;"	m	struct:wl_ioctl
+buf_start	pcap-dos.h	/^         char        *buf_start;  \/* start of buffer pool *\/$/;"	m	struct:rx_ringbuf
+buffer	pcap-int.h	/^	u_char *buffer;$/;"	m	struct:pcap
+buffer_size	pcap-int.h	/^	int	buffer_size;$/;"	m	struct:pcap_opt
+bufsize	pcap-int.h	/^	int bufsize;$/;"	m	struct:pcap
+bzh	pcap-int.h	/^       struct bpf_zbuf_header *bzh;$/;"	m	struct:pcap_md	typeref:struct:pcap_md::bpf_zbuf_header
+caddr_t	pcap-stdinc.h	56;"	d
+can_set_rfmon_op	pcap-int.h	/^	can_set_rfmon_op_t can_set_rfmon_op;$/;"	m	struct:pcap
+can_set_rfmon_op_t	pcap-int.h	/^typedef int	(*can_set_rfmon_op_t)(pcap_t *);$/;"	t
+cap_device	structs.h	/^  char cap_device[16];$/;"	m	struct:prism_hdr
+caplen	pcap-int.h	/^    bpf_u_int32 caplen;		\/* length of portion present *\/$/;"	m	struct:pcap_sf_patched_pkthdr
+caplen	pcap-int.h	/^    bpf_u_int32 caplen;		\/* length of portion present *\/$/;"	m	struct:pcap_sf_pkthdr
+caps	structs.h	/^  u_short caps;$/;"	m	struct:__anon3
+cc	pcap-int.h	/^	int cc;$/;"	m	struct:pcap
+ch_sig_handler	channelhopper.c	/^void ch_sig_handler(int i) {$/;"	f
+channel	structs.h	/^  u_char channel;$/;"	m	struct:__anon9
+channelDwellTime	structs.h	/^  int channelDwellTime;$/;"	m	struct:__anon12
+channelHopSeq	structs.h	/^  int channelHopSeq[14];$/;"	m	struct:__anon12
+channelHopSeqLen	structs.h	/^  int channelHopSeqLen;$/;"	m	struct:__anon12
+channelHopper	channelhopper.c	/^void channelHopper(wiviz_cfg * cfg) {$/;"	f
+channelHopperPID	structs.h	/^  int channelHopperPID;$/;"	m	struct:__anon12
+channelHopping	structs.h	/^  int channelHopping;$/;"	m	struct:__anon12
+channel_info	wl_access.h	/^typedef struct channel_info {$/;"	s
+channel_info_t	wl_access.h	/^} channel_info_t;$/;"	t	typeref:struct:channel_info
+cleanup_op	pcap-int.h	/^	cleanup_op_t cleanup_op;$/;"	m	struct:pcap
+cleanup_op_t	pcap-int.h	/^typedef void	(*cleanup_op_t)(pcap_t *);$/;"	t
+close	pcap-dos.h	/^         void  (*close)(struct device *dev);$/;"	m	struct:device
+closure	gencode.h	/^	uset closure;$/;"	m	struct:block
+cmd	wl_access.h	/^	uint cmd;	\/* common ioctl definition *\/$/;"	m	struct:wl_ioctl
+code	gencode.h	/^	int code;$/;"	m	struct:edge
+code	gencode.h	/^	int code;$/;"	m	struct:stmt
+connectedBSSID	structs.h	/^  u_char connectedBSSID[6];$/;"	m	struct:__anon10
+cooked	pcap-int.h	/^	int	cooked;		\/* using SOCK_DGRAM rather than SOCK_RAW *\/$/;"	m	struct:pcap_md
+copy_rx_buf	pcap-dos.h	/^         int   (*copy_rx_buf) (BYTE *buf, int max); \/* rx-copy (pktdrvr only) *\/$/;"	m	struct:device
+count	wl_access.h	/^	uint count;			\/* number of MAC addresses *\/$/;"	m	struct:maclist
+curChannel	structs.h	/^  int curChannel;$/;"	m	struct:__anon12
+dag_fcs_bits	pcap-int.h	/^	int	dag_fcs_bits;	\/* Number of checksum bits from link layer *\/$/;"	m	struct:pcap_md
+dag_mem_base	pcap-int.h	/^	void	*dag_mem_base;	\/* DAG card memory base address *\/$/;"	m	struct:pcap_md
+dag_mem_bottom	pcap-int.h	/^	u_char	*dag_mem_bottom;	\/* DAG card current memory bottom pointer *\/$/;"	m	struct:pcap_md
+dag_mem_bottom	pcap-int.h	/^	u_int	dag_mem_bottom;	\/* DAG card current memory bottom offset *\/$/;"	m	struct:pcap_md
+dag_mem_top	pcap-int.h	/^	u_char	*dag_mem_top;	\/* DAG card current memory top pointer *\/$/;"	m	struct:pcap_md
+dag_mem_top	pcap-int.h	/^	u_int	dag_mem_top;	\/* DAG card current memory top offset *\/$/;"	m	struct:pcap_md
+dag_offset_flags	pcap-int.h	/^	int	dag_offset_flags; \/* Flags to pass to dag_offset(). *\/$/;"	m	struct:pcap_md
+dag_stream	pcap-int.h	/^	int	dag_stream;	\/* DAG stream number *\/$/;"	m	struct:pcap_md
+dag_timeout	pcap-int.h	/^	int	dag_timeout;	\/* timeout specified to pcap_open_live.$/;"	m	struct:pcap_md
+data	pcap-dos.h	/^         BYTE  data[ETH_MAX+10];  \/* add some margin. data[0] should be *\/$/;"	m	struct:rx_elem
+dealWithPacket	wiviz.c	/^void dealWithPacket(wiviz_cfg * cfg, struct pcap_pkthdr * header, const u_char * packet) {$/;"	f
+def	gencode.h	/^	atomset def, kill;$/;"	m	struct:block
+device	pcap-dos.h	/^  struct device {$/;"	s
+device	pcap-int.h	/^	char	*device;	\/* device name *\/$/;"	m	struct:pcap_md
+did	structs.h	/^  u_short did;$/;"	m	struct:prism_did
+dir	gencode.h	/^	unsigned char dir;$/;"	m	struct:qual
+direction	pcap-int.h	/^	pcap_direction_t direction;$/;"	m	struct:pcap
+dlpi_hd	pcap-int.h	/^	dlpi_handle_t dlpi_hd;$/;"	m	struct:pcap
+dlpisubs_h	dlpisubs.h	6;"	d
+dlt_count	pcap-int.h	/^	int dlt_count;$/;"	m	struct:pcap
+dlt_list	pcap-int.h	/^	u_int *dlt_list;$/;"	m	struct:pcap
+dma	pcap-dos.h	/^         int    dma;            \/* DMA channel              *\/$/;"	m	struct:device
+dom	gencode.h	/^	uset dom;$/;"	m	struct:block
+duration	structs.h	/^  u_short duration;$/;"	m	struct:ieee802_11_hdr
+e	tokdefs.h	/^	u_char *e;$/;"	m	union:YYSTYPE
+ea	wl_access.h	/^	struct ether_addr ea[1];	\/* variable length array of MAC addresses *\/$/;"	m	struct:maclist	typeref:struct:maclist::ether_addr
+edge	gencode.h	/^struct edge {$/;"	s
+edom	gencode.h	/^	uset edom;$/;"	m	struct:edge
+ef	gencode.h	/^	struct edge ef;$/;"	m	struct:block	typeref:struct:block::edge
+elem_size	pcap-dos.h	/^         int          elem_size;  \/* size of each element *\/$/;"	m	struct:rx_ringbuf
+encryption	structs.h	/^  ap_enc_type encryption;$/;"	m	struct:__anon9
+errbuf	pcap-int.h	/^	char errbuf[PCAP_ERRBUF_SIZE + 1];$/;"	m	struct:pcap
+et	gencode.h	/^	struct edge et;$/;"	m	struct:block	typeref:struct:block::edge
+ether_addr	wl_access.h	/^typedef struct ether_addr {$/;"	s
+ether_addr_t	wl_access.h	/^} ether_addr_t;$/;"	t	typeref:struct:ether_addr
+fcode	pcap-int.h	/^	struct bpf_program fcode;$/;"	m	struct:pcap	typeref:struct:pcap::bpf_program
+fddipad	pcap-int.h	/^	int fddipad;$/;"	m	struct:pcap
+firstsel	pcap-int.h	/^       struct timespec firstsel;$/;"	m	struct:pcap_md	typeref:struct:pcap_md::timespec
+flags	pcap-dos.h	/^         WORD   flags;          \/* Low-level status flags. *\/$/;"	m	struct:device
+flags	structs.h	/^  u_char flags;$/;"	m	struct:ieee802_11_hdr
+flags	structs.h	/^  u_short flags;$/;"	m	struct:__anon9
+fprint_mac	wiviz.c	/^void fprint_mac(FILE * outf, u_char * mac, char * extra) {$/;"	f
+frag_and_seq	structs.h	/^  u_short frag_and_seq;$/;"	m	struct:ieee802_11_hdr
+frame_control	structs.h	/^  u_char frame_control;$/;"	m	struct:ieee802_11_hdr
+get_mac	wl_access.c	/^int get_mac(char *name, void *buf)$/;"	f
+get_rx_buf	pcap-dos.h	/^         BYTE *(*get_rx_buf) (int len);             \/* rx-buf fetch\/enqueue *\/$/;"	m	struct:device
+get_stats	pcap-dos.h	/^         void *(*get_stats)(struct device *dev);$/;"	m	struct:device
+getnonblock_op	pcap-int.h	/^	getnonblock_op_t getnonblock_op;$/;"	m	struct:pcap
+getnonblock_op_t	pcap-int.h	/^typedef int	(*getnonblock_op_t)(pcap_t *, char *);$/;"	t
+global_cfg	wiviz.c	/^wiviz_cfg * global_cfg;$/;"	v
+gotHost	wiviz.c	/^wiviz_host * gotHost(wiviz_cfg * cfg, u_char * mac, host_type type) {$/;"	f
+h	tokdefs.h	/^	bpf_u_int32 h;$/;"	m	union:YYSTYPE
+hdr	pcap-int.h	/^	struct pcap_pkthdr *hdr;$/;"	m	struct:oneshot_userdata	typeref:struct:oneshot_userdata::pcap_pkthdr
+hdrsize	pcap-int.h	/^	size_t hdrsize;$/;"	m	struct:pcap_sf
+head	gencode.h	/^	struct block *head;$/;"	m	struct:block	typeref:struct:block::block
+host_type	structs.h	/^  } host_type;$/;"	t	typeref:enum:__anon6
+hosts	structs.h	/^  wiviz_host hosts[MAX_HOSTS];$/;"	m	struct:__anon12
+hw_channel	wl_access.h	/^	int hw_channel;$/;"	m	struct:channel_info
+i	tokdefs.h	/^	int i;$/;"	m	union:YYSTYPE
+i81tag	structs.h	/^  } i81tag;$/;"	t	typeref:enum:__anon5
+id	gencode.h	/^	int id;$/;"	m	struct:block
+id	gencode.h	/^	int id;$/;"	m	struct:edge
+ieee802_11_hdr	structs.h	/^  } ieee802_11_hdr;$/;"	t	typeref:struct:ieee802_11_hdr
+ieee802_11_hdr	structs.h	/^typedef struct ieee802_11_hdr {$/;"	s
+ieee_802_11_mgt_frame	structs.h	/^  } ieee_802_11_mgt_frame;$/;"	t	typeref:struct:__anon3
+ieee_802_11_tag	structs.h	/^  } ieee_802_11_tag;$/;"	t	typeref:struct:__anon4
+ifcount	pcap-int.h	/^	bpf_u_int32 ifcount;	\/* number of interfaces seen in this capture *\/$/;"	m	struct:pcap_sf
+ifindex	pcap-int.h	/^	int	ifindex;	\/* interface index of device we're bound to *\/$/;"	m	struct:pcap_md
+in_edges	gencode.h	/^	struct edge *in_edges;$/;"	m	struct:block	typeref:struct:block::edge
+in_index	pcap-dos.h	/^         volatile int in_index;   \/* queue index head *\/$/;"	m	struct:rx_ringbuf
+in_use	gencode.h	/^	atomset in_use;$/;"	m	struct:block
+index	pcap-int.h	/^    int		index;$/;"	m	struct:pcap_sf_patched_pkthdr
+inject_op	pcap-int.h	/^	inject_op_t inject_op;$/;"	m	struct:pcap
+inject_op_t	pcap-int.h	/^typedef int	(*inject_op_t)(pcap_t *, const void *, size_t);$/;"	t
+inline	config.h	282;"	d
+inline	pcap-dos.h	52;"	d
+inline	pcap-stdinc.h	64;"	d
+interrupted	pcap-int.h	/^       u_int interrupted;$/;"	m	struct:pcap_md
+intptr_t	pcap-stdinc.h	/^typedef _W64 int   intptr_t;$/;"	t
+intptr_t	pcap-stdinc.h	/^typedef __int64    intptr_t;$/;"	t
+irq	pcap-dos.h	/^         int    irq;            \/* device IRQ number        *\/$/;"	m	struct:device
+jf	gencode.h	/^	struct slist *jf;	\/*only for relative jump in block*\/$/;"	m	struct:stmt	typeref:struct:stmt::slist
+jt	gencode.h	/^	struct slist *jt;	\/*only for relative jump in block*\/$/;"	m	struct:stmt	typeref:struct:stmt::slist
+k	gencode.h	/^	bpf_int32 k;$/;"	m	struct:stmt
+kill	gencode.h	/^	atomset def, kill;$/;"	m	struct:block
+lastKeepAlive	structs.h	/^  time_t lastKeepAlive;$/;"	m	struct:__anon12
+lastSeen	structs.h	/^  time_t lastSeen;$/;"	m	struct:__anon11
+len	pcap-int.h	/^    bpf_u_int32 len;		\/* length this packet (off wire) *\/$/;"	m	struct:pcap_sf_patched_pkthdr
+len	pcap-int.h	/^    bpf_u_int32 len;		\/* length this packet (off wire) *\/$/;"	m	struct:pcap_sf_pkthdr
+len	wl_access.h	/^	uint len;	\/* length of user buffer *\/$/;"	m	struct:wl_ioctl
+length	structs.h	/^  u_char length;$/;"	m	struct:__anon4
+length	structs.h	/^  u_short length;$/;"	m	struct:prism_did
+lengths_swapped	pcap-int.h	/^	swapped_type_t lengths_swapped;$/;"	m	struct:pcap_sf
+level	gencode.h	/^	int level;$/;"	m	struct:block
+link	gencode.h	/^	struct block *link;	\/* link field used by optimizer *\/$/;"	m	struct:block	typeref:struct:block::block
+linktype	pcap-int.h	/^	int linktype;		\/* Network linktype *\/$/;"	m	struct:pcap
+linktype_ext	pcap-int.h	/^	int linktype_ext;       \/* Extended information stored in the linktype field of a file *\/$/;"	m	struct:pcap
+lo_ifindex	pcap-int.h	/^	int	lo_ifindex;	\/* interface index of the loopback device *\/$/;"	m	struct:pcap_md
+long_name	pcap-dos.h	/^         const char *long_name;$/;"	m	struct:device
+longjf	gencode.h	/^	int longjf;		\/* jf branch requires long jump *\/$/;"	m	struct:block
+longjt	gencode.h	/^	int longjt;		\/* jt branch requires long jump *\/$/;"	m	struct:block
+mac	structs.h	/^  u_char mac[6];$/;"	m	struct:__anon11
+mac	wl_access.h	/^  char mac[6];$/;"	m	struct:sta_rssi
+maclist	wl_access.h	/^typedef struct maclist {$/;"	s
+maclist_t	wl_access.h	/^} maclist_t;$/;"	t	typeref:struct:maclist
+main	wiviz.c	/^int main(int argc, char * * argv) {$/;"	f
+mark	gencode.h	/^	int mark;$/;"	m	struct:block
+max	pcap-dos.h	79;"	d
+max	pcap-dos.h	87;"	d
+md	pcap-int.h	/^	struct pcap_md md;$/;"	m	struct:pcap	typeref:struct:pcap::pcap_md
+mem_end	pcap-dos.h	/^         DWORD  mem_end;        \/* shared mem end           *\/$/;"	m	struct:device
+mem_start	pcap-dos.h	/^         DWORD  mem_start;      \/* shared mem start         *\/$/;"	m	struct:device
+mgt_assocRequest	structs.h	/^  mgt_assocRequest = 0,$/;"	e	enum:__anon2
+mgt_assocResponse	structs.h	/^  mgt_assocResponse = 1,$/;"	e	enum:__anon2
+mgt_auth	structs.h	/^  mgt_auth = 11,$/;"	e	enum:__anon2
+mgt_beacon	structs.h	/^  mgt_beacon = 8,$/;"	e	enum:__anon2
+mgt_deauth	structs.h	/^  mgt_deauth = 12$/;"	e	enum:__anon2
+mgt_disassoc	structs.h	/^  mgt_disassoc = 10,$/;"	e	enum:__anon2
+mgt_probeRequest	structs.h	/^  mgt_probeRequest = 4,$/;"	e	enum:__anon2
+mgt_probeResponse	structs.h	/^  mgt_probeResponse = 5,$/;"	e	enum:__anon2
+mgt_reassocRequest	structs.h	/^  mgt_reassocRequest = 2,$/;"	e	enum:__anon2
+mgt_reassocResponse	structs.h	/^  mgt_reassocResponse = 3,$/;"	e	enum:__anon2
+min	pcap-dos.h	78;"	d
+min	pcap-dos.h	83;"	d
+min	pcap-int.h	423;"	d
+mmapbuf	pcap-int.h	/^	u_char	*mmapbuf;	\/* memory-mapped region pointer *\/$/;"	m	struct:pcap_md
+mmapbuflen	pcap-int.h	/^	size_t	mmapbuflen;	\/* size of region *\/$/;"	m	struct:pcap_md
+mondevice	pcap-int.h	/^	char	*mondevice;	\/* mac80211 monitor device we created *\/$/;"	m	struct:pcap_md
+msg_code	structs.h	/^  u_int msg_code;$/;"	m	struct:prism_hdr
+msg_length	structs.h	/^  u_int msg_length;$/;"	m	struct:prism_hdr
+mtp3fieldtype	tokdefs.h	/^		int mtp3fieldtype;$/;"	m	struct:YYSTYPE::__anon13
+multicast	pcap-dos.h	/^          DWORD  multicast;             \/* multicast packets received   *\/$/;"	m	struct:net_device_stats
+must_do_on_close	pcap-int.h	/^	int	must_do_on_close; \/* stuff we must do when we close *\/$/;"	m	struct:pcap_md
+name	pcap-dos.h	/^         const char *name;$/;"	m	struct:device
+needed	wl_access.h	/^	uint needed;	\/* bytes needed (optional) *\/$/;"	m	struct:wl_ioctl
+net_device_stats	pcap-dos.h	/^  typedef struct net_device_stats {$/;"	s
+next	gencode.h	/^	struct edge *next;	\/* link list of incoming edges for a node *\/$/;"	m	struct:edge	typeref:struct:edge::edge
+next	gencode.h	/^	struct slist *next;$/;"	m	struct:slist	typeref:struct:slist::slist
+next	pcap-dos.h	/^         struct device *next;   \/* next device in list      *\/$/;"	m	struct:device	typeref:struct:device::device
+next	pcap-int.h	/^	struct pcap *next;	\/* list of open pcaps that need stuff cleared on close *\/$/;"	m	struct:pcap_md	typeref:struct:pcap_md::pcap
+next_packet_op	pcap-int.h	/^	int (*next_packet_op)(pcap_t *, struct pcap_pkthdr *, u_char **);$/;"	m	struct:pcap_sf
+nonblock	pcap-int.h	/^	int nonblock;$/;"	m	struct:pcap
+nonzeromac	wiviz.c	34;"	d	file:
+numHosts	structs.h	/^  int numHosts;$/;"	m	struct:__anon12
+num_elem	pcap-dos.h	/^         int          num_elem;   \/* number of elements *\/$/;"	m	struct:rx_ringbuf
+occupied	structs.h	/^  u_char occupied;$/;"	m	struct:__anon11
+offset	gencode.h	/^	int offset;$/;"	m	struct:block
+offset	pcap-int.h	/^	int offset;		\/* offset for proper alignment *\/$/;"	m	struct:pcap
+oldmode	pcap-int.h	/^	bpf_u_int32 oldmode;	\/* mode to restore when turning monitor mode off *\/$/;"	m	struct:pcap_md
+oldstyle	pcap-int.h	/^	int oldstyle;		\/* if we're opening with pcap_open_live() *\/$/;"	m	struct:pcap
+oneshot_buffer	pcap-int.h	/^	u_char	*oneshot_buffer; \/* buffer for copy of packet *\/$/;"	m	struct:pcap_md
+oneshot_callback	pcap-int.h	/^	pcap_handler oneshot_callback;$/;"	m	struct:pcap
+oneshot_userdata	pcap-int.h	/^struct oneshot_userdata {$/;"	s
+open	pcap-dos.h	/^         int   (*open) (struct device *dev);$/;"	m	struct:device
+opt	pcap-int.h	/^	struct pcap_opt opt;$/;"	m	struct:pcap	typeref:struct:pcap::pcap_opt
+out_index	pcap-dos.h	/^         int          out_index;  \/* queue index tail *\/$/;"	m	struct:rx_ringbuf
+out_use	gencode.h	/^	atomset out_use;$/;"	m	struct:block
+oval	gencode.h	/^	int oval;$/;"	m	struct:block
+packets_read	pcap-int.h	/^	u_int	packets_read;	\/* count of packets read with recvfrom() *\/$/;"	m	struct:pcap_md
+pad	gencode.h	/^	unsigned char pad;$/;"	m	struct:qual
+pcap	pcap-int.h	/^struct pcap {$/;"	s
+pcap_header	pcap-int.h	/^	struct pcap_pkthdr pcap_header;	\/* This is needed for the pcap_next_ex() to work *\/$/;"	m	struct:pcap	typeref:struct:pcap::pcap_pkthdr
+pcap_int_h	pcap-int.h	37;"	d
+pcap_md	pcap-int.h	/^struct pcap_md {$/;"	s
+pcap_opt	pcap-int.h	/^struct pcap_opt {$/;"	s
+pcap_sf	pcap-int.h	/^struct pcap_sf {$/;"	s
+pcap_sf_patched_pkthdr	pcap-int.h	/^struct pcap_sf_patched_pkthdr {$/;"	s
+pcap_sf_pkthdr	pcap-int.h	/^struct pcap_sf_pkthdr {$/;"	s
+pcap_stdinc_h	pcap-stdinc.h	34;"	d
+pcap_timeval	pcap-int.h	/^struct pcap_timeval {$/;"	s
+pcap_version_string	version.h	/^static const char pcap_version_string[] = "libpcap version 1.2.1";$/;"	v
+pd	pcap-int.h	/^	pcap_t *pd;$/;"	m	struct:oneshot_userdata
+pdn_datarate	structs.h	/^  pdn_datarate = 0x8041,$/;"	e	enum:prism_did_num
+pdn_framelen	structs.h	/^  pdn_framelen = 0xa041$/;"	e	enum:prism_did_num
+pdn_host_time	structs.h	/^  pdn_host_time = 0x1041,$/;"	e	enum:prism_did_num
+pdn_mac_time	structs.h	/^  pdn_mac_time = 0x2041,$/;"	e	enum:prism_did_num
+pdn_rssi	structs.h	/^  pdn_rssi = 0x4041,$/;"	e	enum:prism_did_num
+pdn_sq	structs.h	/^  pdn_sq = 0x5041,$/;"	e	enum:prism_did_num
+peek_rx_buf	pcap-dos.h	/^         int   (*peek_rx_buf) (BYTE **buf);         \/* rx-non-copy at queue *\/$/;"	m	struct:device
+pkt	pcap-int.h	/^	const u_char **pkt;$/;"	m	struct:oneshot_userdata
+pkt	pcap-int.h	/^	u_char *pkt;$/;"	m	struct:pcap
+pkt_type	pcap-int.h	/^    unsigned char pkt_type;$/;"	m	struct:pcap_sf_patched_pkthdr
+pred	gencode.h	/^	struct block *pred;$/;"	m	struct:edge	typeref:struct:edge::block
+print_host	wiviz.c	/^void print_host(FILE * outf, wiviz_host * host) {$/;"	f
+print_mac	wiviz.c	/^void print_mac(u_char * mac, char * extra) {$/;"	f
+prism_did	structs.h	/^  } prism_did;$/;"	t	typeref:struct:prism_did
+prism_did	structs.h	/^typedef struct prism_did {$/;"	s
+prism_did_num	structs.h	/^  } prism_did_num;$/;"	t	typeref:enum:prism_did_num
+prism_did_num	structs.h	/^typedef enum prism_did_num {$/;"	g
+prism_hdr	structs.h	/^  } prism_hdr;$/;"	t	typeref:struct:prism_hdr
+prism_hdr	structs.h	/^typedef struct prism_hdr {$/;"	s
+priv	pcap-dos.h	/^         void  *priv;           \/* private data *\/$/;"	m	struct:device
+probe	pcap-dos.h	/^         int   (*probe)(struct device *dev);$/;"	m	struct:device
+proc_dropped	pcap-int.h	/^	long	proc_dropped; \/* packets reported dropped by \/proc\/net\/dev *\/$/;"	m	struct:pcap_md
+promisc	pcap-int.h	/^	int	promisc;$/;"	m	struct:pcap_opt
+proto	gencode.h	/^	unsigned char proto;$/;"	m	struct:qual
+protocol	pcap-int.h	/^    unsigned short protocol;$/;"	m	struct:pcap_sf_patched_pkthdr
+q	tokdefs.h	/^		struct qual q;$/;"	m	struct:YYSTYPE::__anon13	typeref:struct:YYSTYPE::__anon13::qual
+qual	gencode.h	/^struct qual {$/;"	s
+rblk	tokdefs.h	/^	struct block *rblk;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::block
+readFromWl	structs.h	/^  int readFromWl;$/;"	m	struct:__anon12
+readWL	wiviz.c	/^void readWL(wiviz_cfg * cfg) {$/;"	f
+read_op	pcap-int.h	/^	read_op_t read_op;$/;"	m	struct:pcap
+read_op_t	pcap-int.h	/^typedef int	(*read_op_t)(pcap_t *, int cnt, pcap_handler, u_char *);$/;"	t
+regno	gencode.h	/^	int regno;		\/* virtual register number of result *\/$/;"	m	struct:arth
+release_rx_buf	pcap-dos.h	/^         int   (*release_rx_buf) (BYTE *buf);       \/* release after peek *\/$/;"	m	struct:device
+reloadConfig	wiviz.c	/^void reloadConfig() {$/;"	f
+rfile	pcap-int.h	/^	FILE *rfile;$/;"	m	struct:pcap_sf
+rfmon	pcap-int.h	/^	int	rfmon;$/;"	m	struct:pcap_opt
+rmem_end	pcap-dos.h	/^         DWORD  rmem_end;       \/* shared "recv" end        *\/$/;"	m	struct:device
+rmem_start	pcap-dos.h	/^         DWORD  rmem_start;     \/* shmem "recv" start       *\/$/;"	m	struct:device
+rx_bytes	pcap-dos.h	/^          DWORD  rx_bytes;              \/* total bytes received         *\/$/;"	m	struct:net_device_stats
+rx_crc_errors	pcap-dos.h	/^          DWORD  rx_crc_errors;         \/* recv'd pkt with crc error    *\/$/;"	m	struct:net_device_stats
+rx_dropped	pcap-dos.h	/^          DWORD  rx_dropped;            \/* no space in Rx buffers       *\/$/;"	m	struct:net_device_stats
+rx_elem	pcap-dos.h	/^  struct rx_elem {$/;"	s
+rx_errors	pcap-dos.h	/^          DWORD  rx_errors;             \/* bad packets received         *\/$/;"	m	struct:net_device_stats
+rx_fifo_errors	pcap-dos.h	/^          DWORD  rx_fifo_errors;        \/* recv'r fifo overrun          *\/$/;"	m	struct:net_device_stats
+rx_frame_errors	pcap-dos.h	/^          DWORD  rx_frame_errors;       \/* recv'd frame alignment error *\/$/;"	m	struct:net_device_stats
+rx_length_errors	pcap-dos.h	/^          DWORD  rx_length_errors;$/;"	m	struct:net_device_stats
+rx_missed_errors	pcap-dos.h	/^          DWORD  rx_missed_errors;      \/* recv'r missed packet         *\/$/;"	m	struct:net_device_stats
+rx_osize_errors	pcap-dos.h	/^          DWORD  rx_osize_errors;       \/* recv'r over-size error       *\/$/;"	m	struct:net_device_stats
+rx_over_errors	pcap-dos.h	/^          DWORD  rx_over_errors;        \/* recv'r overrun error         *\/$/;"	m	struct:net_device_stats
+rx_packets	pcap-dos.h	/^          DWORD  rx_packets;            \/* total packets received       *\/$/;"	m	struct:net_device_stats
+rx_ringbuf	pcap-dos.h	/^  struct rx_ringbuf {$/;"	s
+s	gencode.h	/^	struct slist *s;	\/* stmt list *\/$/;"	m	struct:arth	typeref:struct:arth::slist
+s	gencode.h	/^	struct stmt s;		\/* branch stmt *\/$/;"	m	struct:block	typeref:struct:block::stmt
+s	gencode.h	/^	struct stmt s;$/;"	m	struct:slist	typeref:struct:slist::stmt
+s	tokdefs.h	/^	char *s;$/;"	m	union:YYSTYPE
+scan_channel	wl_access.h	/^	int scan_channel;$/;"	m	struct:channel_info
+sense	gencode.h	/^	int sense;$/;"	m	struct:block
+set	wl_access.h	/^	bool set;	\/* get or set request (optional) *\/$/;"	m	struct:wl_ioctl
+set_datalink_op	pcap-int.h	/^	set_datalink_op_t set_datalink_op;$/;"	m	struct:pcap
+set_datalink_op_t	pcap-int.h	/^typedef int	(*set_datalink_op_t)(pcap_t *, int);$/;"	t
+set_multicast_list	pcap-dos.h	/^         void  (*set_multicast_list)(struct device *dev);$/;"	m	struct:device
+setbuff_op	pcap-int.h	/^	setbuff_op_t setbuff_op;$/;"	m	struct:pcap
+setbuff_op_t	pcap-int.h	/^typedef int	(*setbuff_op_t)(pcap_t *, int);$/;"	t
+setdirection_op	pcap-int.h	/^	setdirection_op_t setdirection_op;$/;"	m	struct:pcap
+setdirection_op_t	pcap-int.h	/^typedef int	(*setdirection_op_t)(pcap_t *, pcap_direction_t);$/;"	t
+setfilter_op	pcap-int.h	/^	setfilter_op_t setfilter_op;$/;"	m	struct:pcap
+setfilter_op_t	pcap-int.h	/^typedef int	(*setfilter_op_t)(pcap_t *, struct bpf_program *);$/;"	t
+setmintocopy_op	pcap-int.h	/^	setmintocopy_op_t setmintocopy_op;$/;"	m	struct:pcap
+setmintocopy_op_t	pcap-int.h	/^typedef int	(*setmintocopy_op_t)(pcap_t *, int);$/;"	t
+setmode_op	pcap-int.h	/^	setmode_op_t setmode_op;$/;"	m	struct:pcap
+setmode_op_t	pcap-int.h	/^typedef int	(*setmode_op_t)(pcap_t *, int);$/;"	t
+setnonblock_op	pcap-int.h	/^	setnonblock_op_t setnonblock_op;$/;"	m	struct:pcap
+setnonblock_op_t	pcap-int.h	/^typedef int	(*setnonblock_op_t)(pcap_t *, int, char *);$/;"	t
+sf	pcap-int.h	/^	struct pcap_sf sf;$/;"	m	struct:pcap	typeref:struct:pcap::pcap_sf
+sf_pcap_h	sf-pcap.h	32;"	d
+sf_pcap_ng_h	sf-pcap-ng.h	27;"	d
+signal_handler	wiviz.c	/^void __cdecl signal_handler(int signum) {$/;"	f
+size	pcap-dos.h	/^         DWORD size;              \/* size copied to this element *\/$/;"	m	struct:rx_elem
+slist	gencode.h	/^struct slist {$/;"	s
+snapshot	pcap-int.h	/^	int snapshot;$/;"	m	struct:pcap
+snf_boardnum	pcap-int.h	/^        int          snf_boardnum;$/;"	m	struct:pcap_md
+snf_handle	pcap-int.h	/^	snf_handle_t snf_handle; \/* opaque device handle *\/$/;"	m	struct:pcap_md
+snf_ring	pcap-int.h	/^	snf_ring_t   snf_ring;   \/* opaque device ring handle *\/$/;"	m	struct:pcap_md
+snf_timeout	pcap-int.h	/^        int          snf_timeout;$/;"	m	struct:pcap_md
+snprintf	pcap-int.h	440;"	d
+snprintf	pcap-stdinc.h	59;"	d
+sock_packet	pcap-int.h	/^	int	sock_packet;	\/* using Linux 2.0 compatible interface *\/$/;"	m	struct:pcap_md
+source	pcap-int.h	/^	char	*source;$/;"	m	struct:pcap_opt
+ssAssociated	structs.h	/^  ssAssociated$/;"	e	enum:__anon7
+ssUnassociated	structs.h	/^  ssUnassociated,$/;"	e	enum:__anon7
+ssUnknown	structs.h	/^  ssUnknown,$/;"	e	enum:__anon7
+ssid	structs.h	/^  char * ssid[32];$/;"	m	struct:__anon9
+ssidlen	structs.h	/^  u_char ssidlen;$/;"	m	struct:__anon9
+staInfo	structs.h	/^  sta_info * staInfo;$/;"	m	struct:__anon11
+sta_info	structs.h	/^  } sta_info;$/;"	t	typeref:struct:__anon10
+sta_rssi	wl_access.h	/^typedef struct sta_rssi {$/;"	s
+sta_rssi_t	wl_access.h	/^  } sta_rssi_t;$/;"	t	typeref:struct:sta_rssi
+sta_state	structs.h	/^  } sta_state;$/;"	t	typeref:enum:__anon7
+stat	pcap-int.h	/^	struct pcap_stat stat;$/;"	m	struct:pcap_md	typeref:struct:pcap_md::pcap_stat
+state	structs.h	/^  sta_state state;$/;"	m	struct:__anon10
+stats_op	pcap-int.h	/^	stats_op_t stats_op;$/;"	m	struct:pcap
+stats_op_t	pcap-int.h	/^typedef int	(*stats_op_t)(pcap_t *, struct pcap_stat *);$/;"	t
+status1	structs.h	/^  u_short status1;$/;"	m	struct:prism_did
+status2	structs.h	/^  u_short status2;$/;"	m	struct:prism_did
+stmt	gencode.h	/^struct stmt {$/;"	s
+stmt	tokdefs.h	/^	struct stmt *stmt;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::stmt
+stmts	gencode.h	/^	struct slist *stmts;	\/* side effect stmts *\/$/;"	m	struct:block	typeref:struct:block::slist
+strdup	pcap-stdinc.h	61;"	d
+strlcpy	pcap-int.h	431;"	d
+succ	gencode.h	/^	struct block *succ;$/;"	m	struct:edge	typeref:struct:edge::block
+swapped	pcap-int.h	/^	int swapped;$/;"	m	struct:pcap_sf
+swapped_type_t	pcap-int.h	/^} swapped_type_t;$/;"	t	typeref:enum:__anon1
+tag	structs.h	/^  u_char tag;$/;"	m	struct:__anon4
+tagChannel	structs.h	/^  tagChannel = 3,$/;"	e	enum:__anon5
+tagRates	structs.h	/^  tagRates = 1,$/;"	e	enum:__anon5
+tagSSID	structs.h	/^  tagSSID = 0,$/;"	e	enum:__anon5
+tagVendorSpecific	structs.h	/^  tagVendorSpecific = 0xDD$/;"	e	enum:__anon5
+target_channel	wl_access.h	/^	int target_channel;$/;"	m	struct:channel_info
+timeout	pcap-int.h	/^	int	timeout;	\/* timeout for buffering *\/$/;"	m	struct:pcap_md
+timestamp	structs.h	/^  u_char timestamp[8];$/;"	m	struct:__anon3
+tp_hdrlen	pcap-int.h	/^	u_int	tp_hdrlen;	\/* hdrlen of tpacket_hdr for mmaped ring *\/$/;"	m	struct:pcap_md
+tp_version	pcap-int.h	/^	u_int	tp_version;	\/* version of tpacket_hdr for mmaped ring *\/$/;"	m	struct:pcap_md
+ts	pcap-int.h	/^    struct pcap_timeval ts;	\/* time stamp *\/$/;"	m	struct:pcap_sf_patched_pkthdr	typeref:struct:pcap_sf_patched_pkthdr::pcap_timeval
+ts	pcap-int.h	/^    struct pcap_timeval ts;	\/* time stamp *\/$/;"	m	struct:pcap_sf_pkthdr	typeref:struct:pcap_sf_pkthdr::pcap_timeval
+tsoffset	pcap-int.h	/^	u_int64_t tsoffset;	\/* time stamp offset *\/$/;"	m	struct:pcap_sf
+tsresol	pcap-int.h	/^	u_int tsresol;		\/* time stamp resolution *\/$/;"	m	struct:pcap_sf
+tsscale	pcap-int.h	/^	u_int tsscale;		\/* scaling factor for resolution -> microseconds *\/$/;"	m	struct:pcap_sf
+tstamp_type	pcap-int.h	/^	int	tstamp_type;$/;"	m	struct:pcap_opt
+tstamp_type_count	pcap-int.h	/^	int tstamp_type_count;$/;"	m	struct:pcap
+tstamp_type_list	pcap-int.h	/^	u_int *tstamp_type_list;$/;"	m	struct:pcap
+tv_sec	pcap-int.h	/^    bpf_int32 tv_sec;		\/* seconds *\/$/;"	m	struct:pcap_timeval
+tv_usec	pcap-int.h	/^    bpf_int32 tv_usec;		\/* microseconds *\/$/;"	m	struct:pcap_timeval
+tx_aborted_errors	pcap-dos.h	/^          DWORD  tx_aborted_errors;$/;"	m	struct:net_device_stats
+tx_bytes	pcap-dos.h	/^          DWORD  tx_bytes;              \/* total bytes transmitted      *\/$/;"	m	struct:net_device_stats
+tx_carrier_errors	pcap-dos.h	/^          DWORD  tx_carrier_errors;$/;"	m	struct:net_device_stats
+tx_collisions	pcap-dos.h	/^          DWORD  tx_collisions;$/;"	m	struct:net_device_stats
+tx_dropped	pcap-dos.h	/^          DWORD  tx_dropped;            \/* no space available for Tx    *\/$/;"	m	struct:net_device_stats
+tx_errors	pcap-dos.h	/^          DWORD  tx_errors;             \/* packet transmit problems     *\/$/;"	m	struct:net_device_stats
+tx_fifo_errors	pcap-dos.h	/^          DWORD  tx_fifo_errors;$/;"	m	struct:net_device_stats
+tx_heartbeat_errors	pcap-dos.h	/^          DWORD  tx_heartbeat_errors;$/;"	m	struct:net_device_stats
+tx_jabbers	pcap-dos.h	/^          DWORD  tx_jabbers;$/;"	m	struct:net_device_stats
+tx_packets	pcap-dos.h	/^          DWORD  tx_packets;            \/* total packets transmitted    *\/$/;"	m	struct:net_device_stats
+tx_window_errors	pcap-dos.h	/^          DWORD  tx_window_errors;$/;"	m	struct:net_device_stats
+type	structs.h	/^  host_type type;$/;"	m	struct:__anon11
+typeAP	structs.h	/^  typeAP,$/;"	e	enum:__anon6
+typeAdhocHub	structs.h	/^  typeAdhocHub$/;"	e	enum:__anon6
+typeSta	structs.h	/^  typeSta,$/;"	e	enum:__anon6
+typeUnknown	structs.h	/^  typeUnknown,$/;"	e	enum:__anon6
+tzoff	pcap-int.h	/^	int tzoff;		\/* timezone offset *\/$/;"	m	struct:pcap
+u_char	structs.h	/^typedef unsigned char u_char;$/;"	t
+u_int	structs.h	/^typedef unsigned int u_int;$/;"	t
+u_short	structs.h	/^typedef unsigned short u_short;$/;"	t
+uchar	wl_access.h	/^typedef unsigned char uchar;$/;"	t
+uint32	wl_access.h	/^typedef unsigned int uint32;$/;"	t
+uint64	pcap-dos.h	/^  typedef unsigned __int64  uint64;$/;"	t
+uint64	pcap-dos.h	/^  typedef unsigned long long  uint64;$/;"	t
+uintptr_t	pcap-stdinc.h	/^typedef _W64 unsigned int   uintptr_t;$/;"	t
+uintptr_t	pcap-stdinc.h	/^typedef unsigned __int64    uintptr_t;$/;"	t
+use_bpf	pcap-int.h	/^	int use_bpf;		\/* using kernel filter *\/$/;"	m	struct:pcap_md
+used	wl_access.h	/^	uint used;	\/* bytes read or written (optional) *\/$/;"	m	struct:wl_ioctl
+uset	gencode.h	/^typedef bpf_u_int32 *uset;$/;"	t
+val	gencode.h	/^	int val[N_ATOMS];$/;"	m	struct:block
+version_major	pcap-int.h	/^	int version_major;$/;"	m	struct:pcap_sf
+version_minor	pcap-int.h	/^	int version_minor;$/;"	m	struct:pcap_sf
+vsnprintf	pcap-int.h	445;"	d
+vsnprintf	pcap-stdinc.h	60;"	d
+wait_proc	pcap-int.h	/^        void (*wait_proc)(void); \/*          call proc while waiting *\/$/;"	m	struct:pcap
+wifi_frametype	structs.h	/^  } wifi_frametype;$/;"	t	typeref:enum:__anon2
+wiviz_cfg	structs.h	/^  } wiviz_cfg;$/;"	t	typeref:struct:__anon12
+wiviz_host	structs.h	/^  } wiviz_host;$/;"	t	typeref:struct:__anon11
+wl_ioctl	wl_access.c	/^int wl_ioctl(char *name, int cmd, void *buf, int len)$/;"	f
+wl_ioctl	wl_access.h	/^typedef struct wl_ioctl {$/;"	s
+wl_ioctl_t	wl_access.h	/^} wl_ioctl_t;$/;"	t	typeref:struct:wl_ioctl
+wlc_ssid	wl_access.h	/^typedef struct wlc_ssid {$/;"	s
+wlc_ssid_t	wl_access.h	/^} wlc_ssid_t;$/;"	t	typeref:struct:wlc_ssid
+writeJavascript	wiviz.c	/^void writeJavascript() { $/;"	f
+xmit	pcap-dos.h	/^         int   (*xmit) (struct device *dev, const void *buf, int len);$/;"	m	struct:device
+yystype	tokdefs.h	296;"	d
+yytokentype	tokdefs.h	/^   enum yytokentype {$/;"	g
+zbuf1	pcap-int.h	/^       u_char *zbuf1, *zbuf2, *zbuffer;$/;"	m	struct:pcap_md
+zbuf2	pcap-int.h	/^       u_char *zbuf1, *zbuf2, *zbuffer;$/;"	m	struct:pcap_md
+zbuffer	pcap-int.h	/^       u_char *zbuf1, *zbuf2, *zbuffer;$/;"	m	struct:pcap_md
+zbufsize	pcap-int.h	/^       u_int zbufsize;$/;"	m	struct:pcap_md
+zero_ex_forty_one	wl_access.h	/^  u_short zero_ex_forty_one;$/;"	m	struct:sta_rssi
+zerocopy	pcap-int.h	/^       u_int zerocopy;$/;"	m	struct:pcap_md

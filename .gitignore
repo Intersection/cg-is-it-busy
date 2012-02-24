@@ -1,0 +1,14 @@
+*.o
+archive_from_git.sh
+s3-signed-url.py
+.DS_Store*
+*.pyc
+.*.swp
+.*.swo
+tags
+*.log
+*.in
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
