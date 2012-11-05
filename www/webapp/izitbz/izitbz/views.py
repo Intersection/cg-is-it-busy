@@ -8,23 +8,9 @@ SECONDS_IN_MINUTE = 60
 MINUTES_IN_HOUR = 60
 SECONDS_PER_INTERVAL=300
 UTC_EDT_OFFSET_HOURS = -1
-BUSY_THRESH = 60
 
 domain_name=os.environ['SDB_DOMAIN']
 
-
-def pad_count(count):
-    '''
-    Prefix the MAC address "count" for each db entry so that each count attribute is of consistent length,
-    in order to be compatible with SimpleDB's lexicographical comparisons
-    '''
-
-    final_num_digits = 8 # The number of digits the output string should contain
-    digs=len(str(count))
-    prefix=''
-    for x in range(final_num_digits - digs):
-        prefix = prefix+'0'
-    return prefix+str(count)
 
 def format_date(timestamp):
     ''' take UNIX timestamp, return pretty date string'''
@@ -54,15 +40,14 @@ def simple_izitbz(request):
     query = "select * from `" + domain_name + "` where `time_int` is not null order by `time_int`"
     data = dom.select(query)
     responseSet = []
-    sample_size = 4 # Number of datapoints to average
     for dp in data:
         responseSet.append(dp)
-    responseSet = responseSet[-sample_size:]
+    responseSet = responseSet[-4:]
 
     average = 0
     for dp in responseSet:
         average += int(dp['count'])
-    average /= sample_size
+    average /= 4
 
 
     response = "<html>\n<title>Is it busy?</title>"
@@ -82,16 +67,16 @@ def simple_izitbz(request):
 
     </style>"""
     response += "\n<div font-family:sans-serif>"
-    response += "It's busy!" if (average > BUSY_THRESH) else "It's not busy."
+    response += "It's busy!" if (average > 100) else "It's not busy."
     response += "</div>"
-    response += """<br/><br/><div class="link"><a href="/chart" target="_blank">Data!</a></div></html>"""
+    response += """<br/><br/><div class="link"><a href=http://localhost:3001/chart>Data!</a></div></html>"""
     return HttpResponse(response)
 
 def latest_chart(request):
     conn = boto.connect_sdb()
     dom = conn.get_domain(domain_name)
-
-    busy_thresh = pad_count(BUSY_THRESH)
+    
+    busy_thresh = '00000100' # TODO: Do not hardcode "busy-ness" threshold
 
     all_query="select * from `" + domain_name + "` where `time_int` is not null order by `time_int`"
     busy_query="select * from `" + domain_name + "` where `time_int` is not null and `count` > '" + busy_thresh + "' order by `time_int`"
@@ -184,7 +169,7 @@ def latest_chart(request):
               title: 'Is It Busy?',
               width: '1200',
               series: ["""
-
+              
     for color in colors_switches:
         output += "{color: '" + color + "', visibleInLegend: false},"
     output = output[:-1]

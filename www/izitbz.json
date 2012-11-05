@@ -1,0 +1,39 @@
+[
+{"Name": "Pollster",
+    "ActionOnFailure":"CONTINUE",
+    "HadoopJarStep": {
+        "Jar":"/home/hadoop/contrib/streaming/hadoop-streaming.jar",
+        "Args": [
+            "-jobconf","stream.non.zero.exit.is.failure=false",
+        "-input", "s3n://pollster-emr/input/*",
+        "-output","s3n://pollster-emr/output/<date>",
+        "-mapper","s3://pollster-emr/files/collector.py",
+        "-reducer","/bin/cat",
+        "-cmdenv","AWS_ACCESS_KEY_ID=***your_access_key***",
+        "-cmdenv","AWS_SECRET_ACCESS_KEY=***your_secret_key***",
+        "-cmdenv","SQS_REGION=us-east-1",
+        "-cmdenv","SQS_QUEUE=wtm-router-sqs-stack-queue-D68F2E2R9IQI",
+        "-cmdenv","MESSAGES_TO_COLLECT=<nummess>",
+        "-cmdenv","NUMBER_OF_MAPPERS=<mappers>",
+        "-verbose"
+            ]
+    }
+},
+{"Name": "Is it Busy?",
+    "ActionOnFailure":"CONTINUE",
+    "HadoopJarStep": {
+        "Jar":"/home/hadoop/contrib/streaming/hadoop-streaming.jar",
+        "Args": [
+            "-jobconf","stream.non.zero.exit.is.failure=false",
+        "-input", "s3n://pollster-emr/output/*",
+        "-output","s3n://isitbusyout/output/<date>",
+        "-cmdenv","AWS_ACCESS_KEY_ID=***your_access_key***",
+        "-cmdenv","AWS_SECRET_ACCESS_KEY=***your_secret_key***",
+        "-cmdenv","SDB_DOMAIN=<sdbDomain>",
+        "-mapper","s3://isitbusydev/izitbz-map.py",
+        "-reducer","s3://isitbusydev/izitbz-red.py",
+        "-verbose"
+            ]
+    }
+}
+]
